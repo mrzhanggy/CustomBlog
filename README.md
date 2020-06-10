@@ -1,2 +1,2 @@
 # CustomBlog
-使用 React 全家桶定制 Bolg
+使用 React 全家桶编写的一个 Bolg
